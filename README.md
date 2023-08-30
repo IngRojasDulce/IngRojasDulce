@@ -6,7 +6,7 @@ Hi there 👋 Soy Dulce Rojas, desarrollador Full Stack  e ingeniero en Electron
   - ![JS](https://img.icons8.com/color/48/000000/js.png)
   - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
   - ![Express.js](https://img.icons8.com/color/48/000000/express.png)
-  - ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+  - ![PostgreSQL](https://tse4.mm.bing.net/th?id=OIP.d0C-8A3W1HBzcHqHoUmAzgHaHa&pid=Api&P=0&h=180)
   - ![Sequelize](https://img.icons8.com/color/48/000000/sequelize.png)
   - ![Redux](https://img.icons8.com/color/48/000000/redux.png)
   - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
@@ -17,10 +17,8 @@ Hi there 👋 Soy Dulce Rojas, desarrollador Full Stack  e ingeniero en Electron
   y organizacion con la herramienta trello.
   
 ## ¿**Hablamos?** 👋
-puedes contactarme a mi correo dulcerojas698@gmail.com  o por mi [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/
-dulce-rojas-19060416a
-
-)
+Puedes contactarme por correo electrónico en dulcerojas698@gmail.com.
+También puedes conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/dulce-rojas-19060416a/).
 
 <!--
 **IngRojasDulce/IngRojasDulce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
