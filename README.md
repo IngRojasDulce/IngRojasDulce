@@ -6,7 +6,7 @@ Hi there 👋 Soy Dulce Rojas, desarrollador Full Stack  e ingeniero en Electron
   - ![JS](https://img.icons8.com/color/48/000000/js.png)
   - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
   - ![Express.js](https://img.icons8.com/color/48/000000/express.png)
-  - ![PostgreSQL](https://tse4.mm.bing.net/th?id=OIP.d0C-8A3W1HBzcHqHoUmAzgHaHa&pid=Api&P=0&h=180)
+  - ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
   - ![Sequelize](https://img.icons8.com/color/48/000000/sequelize.png)
   - ![Redux](https://img.icons8.com/color/48/000000/redux.png)
   - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
