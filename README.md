@@ -1,6 +1,6 @@
 ###
 ![Imagen de desarrollador Full Stack](https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg)
-Hi there 👋 Soy Dulce Rojas, desarrollador Full Stack  e ingeniero en Electronica, descubri este mundo tan apasionante que esta en constante actualizacion y me motiva a no dejar de aprender dia a dia, actualmente tengo conocimento en :
+## **Hi there 👋 Soy Dulce Rojas** desarrollador Full Stack  e ingeniero en Electronica, descubri este mundo tan apasionante que esta en constante actualizacion y me motiva a no dejar de aprender dia a dia, actualmente tengo conocimento en :
 
 
   - ![JS](https://img.icons8.com/color/48/000000/js.png)
@@ -10,9 +10,8 @@ Hi there 👋 Soy Dulce Rojas, desarrollador Full Stack  e ingeniero en Electron
   - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
   - ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 
-  conociemto en metodologias agiles como 
-  -![Scrum](https://img.icons8.com/color/48/000000/scrum.png) 
-  y organizacion con la herramienta trello.
+  conociemto en metodologias agiles como SCRUM
+  y organizacion con la herramientaTRELLO.
   
 ## ¿**Hablamos?** 👋
 Puedes contactarme por correo electrónico en dulcerojas698@gmail.com.
