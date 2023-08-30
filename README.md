@@ -1,6 +1,7 @@
 ###
 ![Imagen de desarrollador Full Stack](https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg)
-Hi there 👋 Soy Dulce Rojas, desarrollador Full Stack 
+Hi there 👋 Soy Dulce Rojas, desarrollador Full Stack  e ingeniero en Electronica, descubri este mundo tan apasionante que esta en constante actualizacion y me motiva a no dejar de aprender dia a dia, actualmente tengo conocimento en :
+![JS](https://img.icons8.com/color/48/000000/js.png)
 
 <!--
 **IngRojasDulce/IngRojasDulce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
