@@ -1,4 +1,6 @@
-### Hi there 👋
+###
+![Imagen de desarrollador Full Stack](https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg)
+Hi there 👋 Soy Dulce Rojas, desarrollador Full Stack 
 
 <!--
 **IngRojasDulce/IngRojasDulce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
