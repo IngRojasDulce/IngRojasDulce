@@ -10,7 +10,7 @@ Soy desarrolladora Full Stack  e ingeniero en Electronica,  descubri este mundo 
   - ![Redux](https://img.icons8.com/color/48/000000/redux.png)
   - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
   - ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-  - ![Mysql]([htt](https://cdn-icons-png.flaticon.com/512/5968/5968313.png)
+  - ![Mysql](https://cdn-icons-png.flaticon.com/512/5968/5968313.png)
 
   con  conocimiento en metodologias agiles como SCRUM
   y organizacion con la herramientaTRELLO.
