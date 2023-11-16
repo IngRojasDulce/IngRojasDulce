@@ -22,7 +22,7 @@ Antes de unirme al bootcamp, invertí tiempo en proyectos personales que no solo
   - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
   - ![CSS](https://img.icons8.com/color/48/000000/css3.png)
   - ![Mysql](https://img.icons8.com/color/48/000000/mysql.png)
-  - [![Git](https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif)](https://github.com/IngRojasDulce)
+  - [![Git](https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif)](https://github.com/IngRojasDulce){:width="30%"}
 
   con  conocimiento en metodologias agiles como SCRUM
   y organizacion con la herramientaTRELLO.
