@@ -17,17 +17,18 @@ Antes de unirme al bootcamp, invertí tiempo en proyectos personales que no solo
 
   <img src="https://img.icons8.com/color/48/000000/js.png" alt="JS" width="10%">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="10%">
-  - <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="10%">
-  - <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="10%">
-  - <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="10%">
-  - <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="10%">
-  - <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="10%">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" alt="Git" width="10%"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="10%">
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="10%">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="10%">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="10%">
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="10%">
 
- <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" alt="Git" width="10%"/>
+
 [![Git](https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif)](https://github.com/IngRojasDulce)
 
   con  conocimiento en metodologias agiles como SCRUM
-  y organizacion con la herramientaTRELLO.
+  y organizacion con la herramienta TRELLO.
   
 ## ¿**Hablamos?** 👋
 Puedes contactarme por correo electrónico en dulcerojas698@gmail.com.
