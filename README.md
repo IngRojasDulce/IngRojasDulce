@@ -1,10 +1,12 @@
 ###
 ![Imagen de desarrollador Full Stack](https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg)
 ## **Hola 👋 Soy Dulce Rojas** 
-y quisiera contarte un poco quien soy ...
-Soy una persona que le apasiona  enfrentar desafíos con soluciones creativas y disfruto generando opiniones críticas. Mi sólida convicción en la importancia de la transparencia y la honestidad guía mi enfoque en cualquier contexto. La formación en ingeniería electrónica ha intensificado mi fascinación por la tecnología.
 
-Explorar este dinámico y emocionante mundo tecnológico en constante cambio me ha inspirado a adoptar una mentalidad de aprendizaje continuo.
+
+y quisiera contarte un poco quien soy ...
+
+
+Soy una persona que le apasiona  enfrentar desafíos con soluciones creativas y disfruto generando opiniones críticas. Mi sólida convicción en la importancia de la transparencia y la honestidad guía mi enfoque en cualquier contexto. La formación en ingeniería electrónica ha intensificado mi fascinación por la tecnología inspirandome  a adoptar una mentalidad de aprendizaje continuo.
 
 Con el deseo de ampliar mis habilidades, decidí sumergirme en el bootcamp "Soy Henry". Durante este programa, no solo adquirí conocimientos sólidos y prácticos en programación, explorando tecnologías, sino que también lideré con éxito proyectos que resultaron en soluciones innovadoras y eficaces.
 
@@ -20,6 +22,7 @@ Antes de unirme al bootcamp, invertí tiempo en proyectos personales que no solo
   - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
   - ![CSS](https://img.icons8.com/color/48/000000/css3.png)
   - ![Mysql](https://img.icons8.com/color/48/000000/mysql.png)
+  - [![Git](https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif)](https://github.com/IngRojasDulce)
 
   con  conocimiento en metodologias agiles como SCRUM
   y organizacion con la herramientaTRELLO.
