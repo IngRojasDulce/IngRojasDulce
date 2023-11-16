@@ -1,9 +1,7 @@
 ###
 ![Imagen de desarrollador Full Stack](https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg)
-## **Hola 👋 Soy Dulce Rojas** 
+## **Hola 👋  Soy Dulce Rojas** y quisiera contarte un poco quien soy ...👩🏻‍🦱
 
-
-                  y quisiera contarte un poco quien soy ...
 
 
  Soy una persona que le apasiona  enfrentar desafíos con soluciones creativas y disfruto generando opiniones críticas. Mi sólida convicción en la importancia de la transparencia y la honestidad guía mi enfoque en cualquier contexto. La formación en ingeniería electrónica ha intensificado mi fascinación por la tecnología inspirandome  a adoptar una mentalidad de aprendizaje continuo.
@@ -14,7 +12,7 @@
 
  Antes de unirme al bootcamp, invertí tiempo en proyectos personales que no solo impulsaron mi crecimiento personal, sino que también fortalecieron los lazos en mi núcleo familiar. Esta experiencia previa cultivó en mí un compromiso más profundo con mi entorno, reforzando la conexión con mi familia y mi dedicación a contribuir positivamente tanto en el ámbito personal como en el profesional.
 
-
+ Actualmente tengo conocimientos en 
   <img src="https://img.icons8.com/color/48/000000/js.png" alt="JS" width="10%">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="10%">
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" alt="Git" width="10%"/>
@@ -24,8 +22,8 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="10%">
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="10%">
 
-  con  conocimiento en metodologias agiles como SCRUM
-  y organizacion con la herramienta TRELLO.
+ y  en metodologias agiles como SCRUM
+  organizandome  con la herramienta TRELLO.
   
 ## ¿**Hablamos?** 👋
 Puedes contactarme por correo electrónico en dulcerojas698@gmail.com.
