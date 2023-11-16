@@ -1,5 +1,5 @@
 ###
-![Imagen de desarrollador Full Stack](https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg)
+<img src="https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg" alt="Imagen de desarrollador Full Stack" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 ## **Hola 👋  Soy Dulce Rojas** y quisiera contarte un poco quien soy ...👩🏻‍🦱
 
 
@@ -13,6 +13,8 @@
  Antes de unirme al bootcamp, invertí tiempo en proyectos personales que no solo impulsaron mi crecimiento personal, sino que también fortalecieron los lazos en mi núcleo familiar. Esta experiencia previa cultivó en mí un compromiso más profundo con mi entorno, reforzando la conexión con mi familia y mi dedicación a contribuir positivamente tanto en el ámbito personal como en el profesional.
 
  Actualmente tengo conocimientos en 
+
+ 
   <img src="https://img.icons8.com/color/48/000000/js.png" alt="JS" width="10%">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="10%">
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" alt="Git" width="10%"/>
