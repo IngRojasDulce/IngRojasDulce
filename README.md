@@ -1,7 +1,16 @@
 ###
 ![Imagen de desarrollador Full Stack](https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg)
 ## **Hola 👋 Soy Dulce Rojas** 
-Soy desarrolladora Full Stack  e ingeniero en Electronica,  descubri este mundo tan apasionante que esta en constante actualizacion y me motiva a no dejar de aprender dia a dia, actualmente tengo conocimento en :
+y quisiera contarte un poco quien soy ...
+Soy una persona que le apasiona  enfrentar desafíos con soluciones creativas y disfruto generando opiniones críticas. Mi sólida convicción en la importancia de la transparencia y la honestidad guía mi enfoque en cualquier contexto. La formación en ingeniería electrónica ha intensificado mi fascinación por la tecnología.
+
+Explorar este dinámico y emocionante mundo tecnológico en constante cambio me ha inspirado a adoptar una mentalidad de aprendizaje continuo.
+
+Con el deseo de ampliar mis habilidades, decidí sumergirme en el bootcamp "Soy Henry". Durante este programa, no solo adquirí conocimientos sólidos y prácticos en programación, explorando tecnologías, sino que también lideré con éxito proyectos que resultaron en soluciones innovadoras y eficaces.
+
+Este proceso no solo me proporcionó habilidades técnicas avanzadas, sino que también contribuyó al desarrollo de habilidades blandas, como trabajo en equipo, facilidad de adaptación, priorización de objetivos y la organización eficiente de actividades.
+
+Antes de unirme al bootcamp, invertí tiempo en proyectos personales que no solo impulsaron mi crecimiento personal, sino que también fortalecieron los lazos en mi núcleo familiar. Esta experiencia previa cultivó en mí un compromiso más profundo con mi entorno, reforzando la conexión con mi familia y mi dedicación a contribuir positivamente tanto en el ámbito personal como en el profesional.
 
 
   - ![JS](https://img.icons8.com/color/48/000000/js.png)
