@@ -1,5 +1,5 @@
 ###
-<img src="https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg" alt="Imagen de desarrollador Full Stack" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<img src="https://blog.strefakursow.pl/content/images/2017/07/fullstackdeveloper--1-.jpg" alt="Imagen de desarrollador Full Stack">
 ## **Hola 👋  Soy Dulce Rojas** y quisiera contarte un poco quien soy ...👩🏻‍🦱
 
 
